@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/qhuy135520/flexfy-entry-test/static/css/main.a7821a12.css",
+    "main.js": "/qhuy135520/flexfy-entry-test/static/js/main.970aefca.js",
+    "static/js/787.c5fb9c34.chunk.js": "/qhuy135520/flexfy-entry-test/static/js/787.c5fb9c34.chunk.js",
+    "static/media/images-1.webp": "/qhuy135520/flexfy-entry-test/static/media/images-1.d87232dcbd73d1e42d65.webp",
+    "static/media/images-4.webp": "/qhuy135520/flexfy-entry-test/static/media/images-4.5e9dadf42a17b5770326.webp",
+    "static/media/banner-1.avif": "/qhuy135520/flexfy-entry-test/static/media/banner-1.8c2e2374623d8f8a02b2.avif",
+    "static/media/images-2.jpg": "/qhuy135520/flexfy-entry-test/static/media/images-2.cf9558fe54140de08301.jpg",
+    "static/media/images-3.jpg": "/qhuy135520/flexfy-entry-test/static/media/images-3.cd5b82c466205fbc605c.jpg",
+    "static/media/logo-1.svg": "/qhuy135520/flexfy-entry-test/static/media/logo-1.34317550cfb5c4e43193a1ba819f42cf.svg",
+    "static/media/revicons.eot": "/qhuy135520/flexfy-entry-test/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/qhuy135520/flexfy-entry-test/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/qhuy135520/flexfy-entry-test/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/cart.svg": "/qhuy135520/flexfy-entry-test/static/media/cart.eb6abf1e13b6b6983d1e91b3f6e33a5d.svg",
+    "static/media/Instagram-4.svg": "/qhuy135520/flexfy-entry-test/static/media/Instagram-4.0b7b9d91092cbcb15229b46feb40b88e.svg",
+    "index.html": "/qhuy135520/flexfy-entry-test/index.html",
+    "static/media/user.svg": "/qhuy135520/flexfy-entry-test/static/media/user.2528034cf18616ef1f0e31409370024f.svg",
+    "static/media/tiktok-1.svg": "/qhuy135520/flexfy-entry-test/static/media/tiktok-1.3388db75beff88196d0d27d0ffe756ca.svg",
+    "static/media/arrow-left.svg": "/qhuy135520/flexfy-entry-test/static/media/arrow-left.1bbe8a0c8638169c436e7821c7c9a0d6.svg",
+    "static/media/left.svg": "/qhuy135520/flexfy-entry-test/static/media/left.bc2ebc13bd407cddd52b.svg",
+    "static/media/right.svg": "/qhuy135520/flexfy-entry-test/static/media/right.40227387f9991a17eba1.svg",
+    "main.a7821a12.css.map": "/qhuy135520/flexfy-entry-test/static/css/main.a7821a12.css.map",
+    "main.970aefca.js.map": "/qhuy135520/flexfy-entry-test/static/js/main.970aefca.js.map",
+    "787.c5fb9c34.chunk.js.map": "/qhuy135520/flexfy-entry-test/static/js/787.c5fb9c34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7821a12.css",
+    "static/js/main.970aefca.js"
+  ]
+}
