@@ -1,0 +1,16 @@
+.cham-mau {
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+.select {
+  border: solid 1px black;
+}
+@media (max-width: 768px) {
+  .cham-mau {
+    width: 10px;
+    height: 10px;
+  }
+}

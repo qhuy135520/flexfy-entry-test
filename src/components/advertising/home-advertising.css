@@ -1,0 +1,111 @@
+.home-advertising {
+  width: 100%;
+  margin: 0 !important;
+  margin-top: 60px !important;
+}
+.home-advertising-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-color: #ebebeb;
+}
+
+.home-advertising-text-1 {
+  font-size: 30px;
+  color: #000;
+  font-family: Nunito Sans, Helvetica;
+  font-weight: 700;
+  line-height: 34.5px;
+  letter-spacing: unset;
+  font-style: normal;
+}
+.home-advertising-text-2 {
+  font-size: 15px;
+  color: #000;
+  font-family: Nunito Sans, Helvetica;
+  font-weight: 500;
+  line-height: 34.5px;
+  letter-spacing: unset;
+  font-style: normal;
+}
+.home-advertising-image button {
+  margin-top: 10px;
+  font-size: 14.914px;
+  color: #000;
+  font-family: Nunito Sans, Helvetica;
+  font-weight: 600;
+  line-height: 24.609px;
+  letter-spacing: unset;
+  font-style: normal;
+  border: 0;
+  padding: 0 13px;
+  height: 29px;
+  border-radius: 8.286px;
+  border: 1.657px solid #fff;
+  background: #fff;
+}
+.home-advertising-image-0 {
+  position: relative;
+}
+
+.advertising-button-0 {
+  display: block;
+  position: absolute;
+  bottom: 20px;
+  left: 40px;
+}
+.home-advertising-image-1 {
+  position: relative;
+}
+
+.advertising-button-1 {
+  display: block;
+  position: absolute;
+  bottom: 20px;
+  right: 40px;
+}
+a,
+button {
+  cursor: pointer;
+  text-decoration: none;
+}
+.home-advertising-image a {
+  color: #000;
+}
+@media screen and (max-width: 1199px) and (min-width: 768px) {
+  .home-advertising,
+  .home-advertising-image {
+    height: 700px;
+  }
+}
+@media (min-width: 768px) {
+  .home-advertising-image {
+    height: 700px;
+  }
+
+  .home-advertising-image button {
+    bottom: 60px;
+    height: 49px;
+    padding: 0 37.58px 0 36px;
+    font-size: 18px;
+    color: #000;
+    font-family: Nunito Sans, Helvetica;
+    font-weight: 600;
+    line-height: 29.7px;
+    letter-spacing: unset;
+    font-style: normal;
+  }
+}
+
+@media (max-width: 768px) {
+  .advertising-button-1 {
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    right: auto;
+  }
+  .home-advertising {
+    margin-top: 30px;
+  }
+}

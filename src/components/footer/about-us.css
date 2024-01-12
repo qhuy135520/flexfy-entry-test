@@ -1,0 +1,110 @@
+.home-confidence {
+  background-color: #ffb4b4;
+}
+.home-confidence,
+.home-promotion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-confidence .div-rich-text-wrapper,
+.home-promotion .div-rich-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.79px;
+  padding: 21.76px 0;
+}
+.fadeIn {
+  animation: fadeIn 0.5s ease-in-out;
+}
+.home-confidence .heading-leisur-e-l {
+  font-size: 25.1px;
+  color: #000;
+  font-family: Playfair Display, serif;
+  font-weight: 400;
+  line-height: 0;
+  letter-spacing: unset;
+  font-style: normal;
+  font-style: italic;
+}
+.home-confidence .text-wrapper,
+.home-promotion .text-wrapper {
+  font-size: 8.9px;
+  color: #000;
+  font-family: Nunito Sans, Helvetica;
+  font-weight: 400;
+  line-height: 14.7px;
+  letter-spacing: unset;
+  font-style: normal;
+  margin-top: 0;
+}
+.home-confidence .link-button {
+  border-color: #ffb4b4;
+}
+.home-confidence .link-button,
+.home-promotion .link-button {
+  margin-left: 31%;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  color: #000;
+  font-family: Nunito Sans, Helvetica;
+  font-weight: 500;
+  line-height: 16.6px;
+  letter-spacing: unset;
+  font-style: normal;
+  background-color: #fff;
+  border-radius: 5.055px;
+  padding: 5.02px 21.2px;
+  text-decoration: none;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  .home-confidence {
+    height: 270px;
+  }
+  .home-promotion,
+  .home-confidence {
+    padding: 30px 0;
+  }
+  .home-promotion .div-rich-text-wrapper,
+  .home-confidence .div-rich-text-wrapper {
+    height: 468px;
+    padding: 0;
+    justify-content: center;
+  }
+  .home-confidence .heading-leisur-e-l {
+    font-size: 45px;
+    color: #000;
+    font-family: Playfair Display, serif;
+    font-weight: 400;
+    line-height: 1.15rem;
+    letter-spacing: unset;
+    font-style: normal;
+    font-style: italic;
+  }
+  .home-promotion .text-wrapper,
+  .home-confidence .text-wrapper {
+    font-size: 16px;
+    margin-bottom: 36px;
+  }
+  .home-promotion .link-button,
+  .home-confidence .link-button {
+    width: 150px;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 9px 36.98px 10.69px 38px;
+  }
+  .home-promotion .link-button span,
+  .home-confidence .link-button span {
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29.7px;
+  }
+}

@@ -1,0 +1,26 @@
+.star {
+  display: inline-block;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: #ccc;
+}
+
+.star.selected {
+  color: #ffb3b3;
+}
+
+.product-views {
+  margin-left: 9px;
+  font-size: 12px;
+  color: #ccc;
+}
+.product-title{
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .star {
+ 
+    font-size: 1rem;
+  }
+}

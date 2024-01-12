@@ -1,0 +1,15 @@
+.list-info{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.list-info-container span {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.list-info-item li {
+  list-style: none;
+}
+.list-info-item a {
+  font-size: 14px;
+  color: black;
+}
